@@ -1,4 +1,4 @@
-package Project1;
+package Assignment1;
 
 public class Fibonacci {
     public static void main(String[] args) {
